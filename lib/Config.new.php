@@ -8,7 +8,7 @@ class Config {
   const TABLE_PREFIX      = '';
   
   const DOCUMENT_ROOT     = '/var/www/';
-  const SERVER_ROOT       = '/expense-tracker/';
+  const SERVER_ROOT       = 'https://cita420-gp1.herokuapp.com/';
   const TEMPLATE_DIR      = 'templates';
   
   const MINIMUM_USERNAME_LENGTH =   3;
