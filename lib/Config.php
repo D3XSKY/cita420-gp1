@@ -7,7 +7,7 @@ class Config {
   const DATABASE_PASSWORD = '2bc076d31d6854000ec1236ac042e2ee4e5065cd43ac93b1732ca4eea13e7839';
   const TABLE_PREFIX      = '';
   
-  const DOCUMENT_ROOT     = '/var/www/';
+  const DOCUMENT_ROOT     = 'www/';
   const SERVER_ROOT       = 'https://cita420-gp1.herokuapp.com/';
   const TEMPLATE_DIR      = 'templates';
   
